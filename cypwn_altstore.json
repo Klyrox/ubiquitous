@@ -1650,31 +1650,6 @@
             ]
         },
         {
-            "name": "Gopeed-v1.5.7-ios",
-            "bundleIdentifier": "com.gopeed",
-            "developerName": "Gopeed-v1.5.7-ios x CyPwn",
-            "localizedDescription": "High-speed iOS download manager!",
-            "iconURL": "https:\/\/ipa.cypwn.xyz\/serve\/icons\/Gopeed-v1.5.7-ios.png",
-            "tintColor": "FFC300",
-            "screenshots": [
-                "https:\/\/ipa.cypwn.xyz\/serve\/screenshots\/Gopeed-v1.5.7-ios\/Gopeed-v1.5.7-ios-0.png"
-            ],
-            "versions": [
-                {
-                    "version": "1.5.7",
-                    "date": "2024-05-08",
-                    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Gopeed-v1.5.7-ios.ipa",
-                    "size": 34802237
-                },
-                {
-                    "version": "1.5.6",
-                    "date": "2024-04-30",
-                    "downloadURL": "https:\/\/ipa.cypwn.xyz\/ipas\/Gopeed_1.5.6.ipa",
-                    "size": 86717235
-                }
-            ]
-        },
-        {
             "name": "Nicegram_1.6.2",
             "bundleIdentifier": "app.nicegram",
             "developerName": "Nicegram_1.6.2 x CyPwn",
